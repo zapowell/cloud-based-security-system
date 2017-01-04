@@ -3,7 +3,7 @@
 <img align="center" src="http://freevector.co/wp-content/uploads/2012/06/39037-photo-camera-on-internet-cloud-symbol.png" alt="osquery logo" width="200"/>
 
 <p align="center">
-CSE 480: cloud based security system
+CSE/CIT 480: cloud based security system
 <p align="center">
 Oakland Univeristy
 <p align="center">
