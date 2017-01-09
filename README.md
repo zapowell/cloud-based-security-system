@@ -5,7 +5,7 @@
 <p align="center">
 CSE/CIT 480: cloud based security system
 <p align="center">
-Oakland Univeristy
+Oakland University
 <p align="center">
 Dr. Nilesh Patel
 
